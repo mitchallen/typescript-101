@@ -3,6 +3,10 @@ typescript-101
 Example TypeScript project
 --
 
+## Reference
+
+* [Getting Started with TypeScript (Hello World, Mac)](https://scriptable.com/getting-started-with-typescript-hello-world/)
+
 ## Usage
 
 ```shell
